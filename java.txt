@@ -1,0 +1,8 @@
+for each (object m: M){
+        System.out.println(m)
+}
+
+haha我要修改了
+6666啊
+新增三行吧
+再增加一行
